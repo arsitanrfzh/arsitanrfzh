@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @arsitanrfzh
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 👀 I’m interested in Backen-end development.
+- 🌱 I’m currently learning Javascript and Cloud Computing.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me arsita.nurfauziah@gmail.com
+- 📫 How to reach me hello.arsitanurfauziah@gmail.com
 
 <!---
 arsitanrfzh/arsitanrfzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
