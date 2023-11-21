@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arsitanrfzh
-- 👀 I’m interested in Backen-end development.
+- 👀 I’m interested in Back-end development.
 - 🌱 I’m currently learning Javascript and Cloud Computing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hello.arsitanurfauziah@gmail.com
