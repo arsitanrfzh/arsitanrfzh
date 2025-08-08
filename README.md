@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arsitanrfzh
 - 👀 I’m interested in Back-end development.
 - 🌱 I’m currently learning Javascript and Cloud Computing.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arsita.tech@gmail.com
 
 <!---
